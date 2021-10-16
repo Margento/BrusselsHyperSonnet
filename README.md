@@ -1,6 +1,6 @@
 # BrusselsHyperSonnet
 
-An HCI transmedia poem in #VectorProsody 
+An HCI transmedia poem in #VectorProsody (under construction)
 
 MARGENTO
 
