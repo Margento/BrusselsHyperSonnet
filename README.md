@@ -1,12 +1,13 @@
 # BrusselsHyperSonnet
 
-MARGENTO
-
 An HCI transmedia poem in #VectorProsody 
+
+MARGENTO
 
 Brussels. A Human-Computer-Interaction Hypersonnet
 
-Technics 
+Technics
+
 A small corpus of 14 poems (guidance corpus) is put together while walking around downtown Brussels and a couple of the city’s “communes.” Since the model deployed involves representing texts as vectors based on the embeddings* of all the terms occurring in them (irrespective of their order or syntax), the poems written during those wanderings begin as lists of words. These lists are then transposed into concrete forms that expand their contents by means of quantum (mis)spelling making possible multidirectional readings and thus shaping them into linguistic mapping apps. We keep refining them till their vector-based similarity to the corresponding poem in the guidance corpus goes beyond a certain threshold (0.85 in our case). We need then a route across these maps, and since they were created by [dis]placing the guidance corpus poems, for each of the latter we find the list/concrete poem with the most similar vector. Surprisingly, this most similar poem is not always the one that was created by (dis)placing the corresponding guidance corpus one. The resulting sequence will represent our tour.
 The code is available on GitHub (LINK) and can be run on any other textual corpora, one just needs to switch to the relevant word embeddings in case their experiment is done in another language. For bi/multi-lingual experiments, please see the code written for “Cannes. A Bilingual Corpus Journey” (LINK2). 
 
@@ -15,6 +16,7 @@ The code is available on GitHub (LINK) and can be run on any other textual corpo
 
 
 Poetics Statement 
+
 Walking down the street—after an endless lockdown—we got a number of things to keep a (ravenous) eye on. First, materials and their chaotic-atomic algorithmic way of amassing; second, a corpus of poems assembled as augmented reality (AR) guidance in strolling; third, the emerging concrete shape of the poem as linguistic mapping app; and, fourth, the poetic vector meter of the resulting poem(s) and its/their similarity to the vectors of the poems in the above-mentioned AR app. The latter helps to work on the emerging poem(s) and then draw a route or tour crossing all poems in the resulting corpus according to their vector similarities to poems in the guiding corpus. 
 
 Materials. We walk randomly around the neighborhood, around the poem, as we know that syntax has little if any actual influence on the resulting poetic vector meter. It’s a list of words or n-grams we’re therefore putting together, not sentences or lines, in no particular order, just an avalanche of words or stock phrases that will later on be translated into the emergent poem’s vector. As natural language processing (NLP) algorithms—Johanna Drucker made the distinction between thinking like and as an algorithm—we will feed on “bags of words.” But then as a data scrapers as well, we’re throwing words into that same bag. And we’re thus already cheating: processing data while, and even before, collecting it… Collection is geared for, biased towards, and ultimately informed by, processing.
