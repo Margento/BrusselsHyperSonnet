@@ -4,7 +4,7 @@ An HCI transmedia poem in #VectorProsody (under construction)
 
 MARGENTO
 
-Brussels. A Human-Computer-Interaction Hypersonnet
+Brussels. A Human-Computer-Intra-action Hypersonnet
 
 Technics
 
